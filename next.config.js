@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "digitalmarketplace-production-80c2.up.railway.app",
+        hostname: "rabbitmarket-production.up.railway.app",
       },
     ],
   },
