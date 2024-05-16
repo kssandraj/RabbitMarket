@@ -12,9 +12,6 @@ import path from "path";
 import { PayloadRequest } from "payload/types";
 import { parse } from "url";
 
-global.ReadableStream = require("web-streams-polyfill").ReadableStream;
-global.TransformStream = require("web-streams-polyfill").TransformStream;
-global.WritableStream = require("web-streams-polyfill").WritableStream;
 const app = express();
 const PORT = Number(process.env.PORT) || 3000;
 
