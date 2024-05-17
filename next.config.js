@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "rabbitmarket-production.up.railway.app",
+        hostname: "rabbit-market.vercel.app",
       },
     ],
   },
