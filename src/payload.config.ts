@@ -25,8 +25,8 @@ export default buildConfig({
     bundler: webpackBundler(),
     meta: {
       titleSuffix: "- RabbitMarket",
-      favicon: "/favicon.ico",
-      ogImage: "/thumbnail.jpg",
+      favicon: "../public/favicon.ico",
+      ogImage: "../public/thumbnail.png",
     },
   },
   rateLimit: {

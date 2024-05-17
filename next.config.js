@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "rabbit-market.vercel.app",
+        hostname: "rabbitmarket.onrender.com",
       },
     ],
   },
